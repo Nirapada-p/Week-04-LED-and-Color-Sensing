@@ -167,10 +167,12 @@ idf_component_register(SRCS "main.c"
 <img width="886" height="468" alt="G" src="https://github.com/user-attachments/assets/ddb63978-8ae3-4c3e-88eb-f1da97453b1f" />
 
 **สีน้ำเงิน** 
+
 <img width="587" height="353" alt="B2" src="https://github.com/user-attachments/assets/de317c80-d69f-4274-9a7a-d64e59677f49" />
 <img width="937" height="513" alt="B" src="https://github.com/user-attachments/assets/d25c941b-93f2-43ea-a491-ca07bdf66363" />
 
 **สีแดง**
+
 <img width="567" height="346" alt="image (1)" src="https://github.com/user-attachments/assets/fa1b2318-cfa1-4a6e-ab75-d4b8e5668ae2" />
 <img width="962" height="522" alt="R" src="https://github.com/user-attachments/assets/c01e12a2-6da0-41b9-9554-5353a76fb7bb" />
 
